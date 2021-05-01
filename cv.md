@@ -13,3 +13,24 @@
     * DataBase
     * PhotoShop
     * Git
+1.  Code examples: 
+            
+            '''class Student {
+            let name: String
+            let surname: String
+            let yearBirth: Int
+            var averageMark: Double
+        
+            init (name: String, surname: String, year: Int, mark: Double) {
+                self.name = name
+                self.surname = surname
+                self.yearBirth = year
+                self.averageMark = mark
+                }
+                }
+            '''
+            
+1. Experience:
+    * Commercial software development in C (2 years).
+    * University project in C #
+        
