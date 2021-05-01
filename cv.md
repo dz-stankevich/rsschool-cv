@@ -33,4 +33,9 @@
 1. Experience:
     * Commercial software development in C (2 years).
     * University project in C #
-        
+1. Education:
+    * Belarusian State University. Specialty - Applied informatics
+    * C # Online Courses
+    * JavaScript Online Courses
+1. English: A2
+      
